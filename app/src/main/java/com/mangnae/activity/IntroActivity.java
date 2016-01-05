@@ -12,6 +12,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
+ * git test!
  * Created by pjm on 2015-12-30.
  */
 public class IntroActivity extends Activity {
